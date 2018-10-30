@@ -19,8 +19,8 @@ def _read_config():
         "name": "samsungctl",
         "description": "PC",
         "id": "",
-        "host" : "192.168.43.16",
-        "method": "legacy",
+        "host" : "10.0.0.5",
+        "method": "websocket",
         "timeout": 5,
     })
 
